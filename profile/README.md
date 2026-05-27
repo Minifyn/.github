@@ -32,6 +32,11 @@ Our work currently focuses on link utilities, QR generation, developer tools, an
         Google Play: <a href="https://play.google.com/store/apps/details?id=com.minifyn.linkguard">ScamGuard: Link Checker</a><br>
         Focus: suspicious URL scanner, phishing link checker, scam link checker, Android link safety app
       </p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.minifyn.linkguard">
+          <img src="./google-play-badge.svg" alt="Get ScamGuard: Link Checker on Google Play" width="150">
+        </a>
+      </p>
     </td>
     <td width="300" align="right" valign="top" style="border: 0;">
       <img src="./scamguard-app-screenshot.jpeg" alt="ScamGuard: Link Checker Android app screenshot" width="260">
