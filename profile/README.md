@@ -1,3 +1,5 @@
+![MiniFyn](./header.png)
+
 # MiniFyn
 
 MiniFyn builds simple, practical tools for safer links and everyday web workflows.
@@ -13,9 +15,9 @@ Our work currently focuses on link utilities, QR generation, developer tools, an
 
 ## Projects
 
-- [ScamGuard: Link Checker](https://github.com/Minifyn/LinkGuard) - Android app for suspicious link checks.
-- [ScamGuard ML](https://github.com/Minifyn/scamguard-ml) - model training, evaluation, packaging, and runtime contract for ScamGuard AI.
-- [MiniFyn Redirect](https://github.com/Minifyn/minifyn-redirect) - redirect service components for MiniFyn links.
+- [MiniFyn Issues](https://github.com/Minifyn/minifyn-issues) - public issue tracker for feedback, bugs, and support requests.
+
+Most product and infrastructure repositories are private while we continue building and operating the platform.
 
 ## Links
 
