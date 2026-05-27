@@ -15,11 +15,17 @@ Our work currently focuses on link utilities, QR generation, developer tools, an
 
 ## ScamGuard: Link Checker
 
-<table>
+<table style="border: 0;">
   <tr>
-    <td valign="top">
+    <td width="70%" valign="top" style="border: 0;">
       <p>
         <a href="https://www.minifyn.com/scamguard"><strong>ScamGuard: Link Checker</strong></a> is MiniFyn's Android app for checking suspicious links before opening them. It helps users review URLs from messages, emails, chats, and social media, with clear safety results for scam, phishing, and risky link patterns.
+      </p>
+      <p>
+        Use ScamGuard when a payment, delivery, login, reward, KYC, or social message includes a link that feels unfamiliar. The app is built for quick checks before a tap, with simple results that help users pause, inspect, and make a safer decision.
+      </p>
+      <p>
+        ScamGuard focuses on practical Android link safety: URL scanning, phishing-style pattern detection, risky domain signals, redirect review, and AI-assisted guidance for harder-to-judge links.
       </p>
       <p>
         Product page: <a href="https://www.minifyn.com/scamguard">minifyn.com/scamguard</a><br>
@@ -27,7 +33,7 @@ Our work currently focuses on link utilities, QR generation, developer tools, an
         Focus: suspicious URL scanner, phishing link checker, scam link checker, Android link safety app
       </p>
     </td>
-    <td width="300" align="right" valign="top">
+    <td width="300" align="right" valign="top" style="border: 0;">
       <img src="./scamguard-app-screenshot.jpeg" alt="ScamGuard: Link Checker Android app screenshot" width="260">
     </td>
   </tr>
