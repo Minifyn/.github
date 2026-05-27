@@ -13,6 +13,14 @@ Our work currently focuses on link utilities, QR generation, developer tools, an
 - **ScamGuard AI** - an on-device URL risk model and signed model distribution flow for advanced link analysis.
 - **Developer utilities** - focused browser tools such as JSON formatting, JWT decoding, and code minification.
 
+## ScamGuard: Link Checker
+
+[ScamGuard: Link Checker](https://www.minifyn.com/scamguard) is MiniFyn's Android app for checking suspicious links before opening them. It helps users review URLs from messages, emails, chats, and social media, with clear safety results for scam, phishing, and risky link patterns.
+
+- Product page: [minifyn.com/scamguard](https://www.minifyn.com/scamguard)
+- Google Play: [ScamGuard: Link Checker](https://play.google.com/store/apps/details?id=com.minifyn.linkguard)
+- Focus: suspicious URL scanner, phishing link checker, scam link checker, Android link safety app
+
 ## Projects
 
 - [MiniFyn Issues](https://github.com/Minifyn/minifyn-issues) - public issue tracker for feedback, bugs, and support requests.
