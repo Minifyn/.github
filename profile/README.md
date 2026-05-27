@@ -18,19 +18,25 @@ Our work currently focuses on link utilities, QR generation, developer tools, an
 <table style="border: 0;">
   <tr>
     <td width="70%" valign="top" style="border: 0;">
+      <h3>
+        <a href="https://www.minifyn.com/scamguard">ScamGuard: Link Checker</a>
+      </h3>
+      <p><strong>Check suspicious links before you click.</strong></p>
       <p>
-        <a href="https://www.minifyn.com/scamguard"><strong>ScamGuard: Link Checker</strong></a> is MiniFyn's Android app for checking suspicious links before opening them. It helps users review URLs from messages, emails, chats, and social media, with clear safety results for scam, phishing, and risky link patterns.
+        MiniFyn's Android app helps users review URLs from messages, emails, chats, and social media with clear safety results for scam, phishing, and risky link patterns.
       </p>
+      <p><strong>Useful for:</strong> payment links, delivery updates, login alerts, reward messages, KYC requests, and unfamiliar social links.</p>
+      <p><strong>Safety checks include:</strong></p>
+      <ul>
+        <li>Suspicious URL and phishing-style pattern checks</li>
+        <li>Risky domain, HTTPS, and redirect signals</li>
+        <li>Simple safe, suspicious, or dangerous results</li>
+        <li>AI-assisted guidance for harder-to-judge links</li>
+      </ul>
       <p>
-        Use ScamGuard when a payment, delivery, login, reward, KYC, or social message includes a link that feels unfamiliar. The app is built for quick checks before a tap, with simple results that help users pause, inspect, and make a safer decision.
-      </p>
-      <p>
-        ScamGuard focuses on practical Android link safety: URL scanning, phishing-style pattern detection, risky domain signals, redirect review, and AI-assisted guidance for harder-to-judge links.
-      </p>
-      <p>
-        Product page: <a href="https://www.minifyn.com/scamguard">minifyn.com/scamguard</a><br>
-        Google Play: <a href="https://play.google.com/store/apps/details?id=com.minifyn.linkguard">ScamGuard: Link Checker</a><br>
-        Focus: suspicious URL scanner, phishing link checker, scam link checker, Android link safety app
+        <strong>Product page:</strong> <a href="https://www.minifyn.com/scamguard">minifyn.com/scamguard</a><br>
+        <strong>Google Play:</strong> <a href="https://play.google.com/store/apps/details?id=com.minifyn.linkguard">ScamGuard: Link Checker</a><br>
+        <strong>Focus:</strong> suspicious URL scanner, phishing link checker, scam link checker, Android link safety app
       </p>
       <p>
         <a href="https://play.google.com/store/apps/details?id=com.minifyn.linkguard">
