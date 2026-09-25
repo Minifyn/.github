@@ -1,72 +1,70 @@
-![MiniFyn](./header.png)
+![MiniFyn: Privacy-First Mobile & Web Utilities](./header.jpg)
 
 # MiniFyn
 
-MiniFyn builds simple, practical tools for safer links and everyday web workflows.
+Privacy-first mobile and web utilities. Small, focused apps that do one job well and keep your data on your device wherever possible.
 
-Our work currently focuses on link utilities, QR generation, developer tools, and Android-first suspicious URL checks through ScamGuard: Link Checker.
+## Apps
 
-## What we build
+### 🛡️ ScamGuard: Link Checker
 
-- **MiniFyn** - a fast URL shortener with QR code generation, analytics, and a developer API.
-- **ScamGuard: Link Checker** - an Android app that helps people review suspicious URLs from SMS, email, chat, and social media before opening them.
-- **ScamGuard AI** - an on-device URL risk model and signed model distribution flow for advanced link analysis.
-- **Developer utilities** - focused browser tools such as JSON formatting, JWT decoding, and code minification.
+**Check suspicious links before you open them.**
 
-## ScamGuard: Link Checker
+Paste or share a link from SMS, email, chat, social media or a QR code and get a clear safe, suspicious or dangerous result.
 
-<table style="border: 0;">
-  <tr>
-    <td width="70%" valign="top" style="border: 0;">
-      <h3>
-        <a href="https://www.minifyn.com/scamguard">ScamGuard: Link Checker</a>
-      </h3>
-      <p><strong>Check suspicious links before you click.</strong></p>
-      <p>
-        MiniFyn's Android app helps users review URLs from messages, emails, chats, and social media with clear safety results for scam, phishing, and risky link patterns.
-      </p>
-      <p><strong>Useful for:</strong> payment links, delivery updates, login alerts, reward messages, KYC requests, and unfamiliar social links.</p>
-      <p><strong>Safety checks include:</strong></p>
-      <ul>
-        <li>Suspicious URL and phishing-style pattern checks</li>
-        <li>Risky domain, HTTPS, and redirect signals</li>
-        <li>Simple safe, suspicious, or dangerous results</li>
-        <li>AI-assisted guidance for harder-to-judge links</li>
-      </ul>
-      <p>
-        <strong>Product page:</strong> <a href="https://www.minifyn.com/scamguard">minifyn.com/scamguard</a><br>
-        <strong>Google Play:</strong> <a href="https://play.google.com/store/apps/details?id=com.minifyn.linkguard">ScamGuard: Link Checker</a><br>
-        <strong>Focus:</strong> suspicious URL scanner, phishing link checker, scam link checker, Android link safety app
-      </p>
-      <p>
-        <a href="https://play.google.com/store/apps/details?id=com.minifyn.linkguard">
-          <img src="./google-play-badge.svg" alt="Get ScamGuard: Link Checker on Google Play" width="150">
-        </a>
-      </p>
-    </td>
-    <td width="300" align="right" valign="top" style="border: 0;">
-      <img src="./scamguard-app-screenshot.jpeg" alt="ScamGuard: Link Checker Android app screenshot" width="260">
-    </td>
-  </tr>
-</table>
+- Phishing and scam pattern checks, including lookalike domains
+- Domain, HTTPS and redirect signals
+- Optional AI analysis for links that are harder to judge
 
-## Projects
+[Website](https://www.minifyn.com/scamguard) · [Chrome extension](https://chromewebstore.google.com/detail/scamguard-link-checker/cendbppkhplamddjfnbhgbejnpmfmlbi)
 
-- [MiniFyn Issues](https://github.com/Minifyn/minifyn-issues) - public issue tracker for feedback, bugs, and support requests.
+<a href="https://play.google.com/store/apps/details?id=com.minifyn.linkguard"><img src="./google-play-badge.svg" alt="Get ScamGuard: Link Checker on Google Play" width="150"></a>
 
-Most product and infrastructure repositories are private while we continue building and operating the platform.
+### 🔒 CensorFyn: Photo & Video Blur
 
-## Links
+**Redact photos and videos, 100% offline.**
 
-- Website: [minifyn.com](https://www.minifyn.com)
-- ScamGuard: [minifyn.com/scamguard](https://www.minifyn.com/scamguard)
-- Blog: [blog.minifyn.com](https://blog.minifyn.com)
-- Support: [minifyn.com/contact](https://www.minifyn.com/contact)
-- Report abuse: [minifyn.com/help/report-abuse](https://www.minifyn.com/help/report-abuse)
+Detects faces, ID documents, card numbers, personal text and QR codes, then destroys the pixels so the originals can't be recovered.
+
+- Works fully offline, nothing is uploaded
+- Blur, pixelate or black out, automatically or by hand
+- Strips location and device metadata on export
+
+[Website](https://www.minifyn.com/censorfyn)
+
+<a href="https://play.google.com/store/apps/details?id=com.minifyn.censorfyn"><img src="./google-play-badge.svg" alt="Get CensorFyn on Google Play" width="150"></a>
+
+### ⚡ ClipFyn: HD Reels & Video 9:16
+
+**Stop blurry video uploads.**
+
+Prepares videos on your device so they stay crisp after posting to social apps.
+
+- Exports sharp 1080p 9:16 video
+- Crop, fit and before/after preview
+- Processed locally, then saved or shared directly
+
+[Website](https://www.minifyn.com/clipfyn)
+
+<a href="https://play.google.com/store/apps/details?id=com.minifyn.clipfyn"><img src="./google-play-badge.svg" alt="Get ClipFyn on Google Play" width="150"></a>
+
+## On the web
+
+- [URL shortener](https://www.minifyn.com) with QR codes and analytics
+- [Developer tools](https://www.minifyn.com/tools): code minifier, JSON formatter, JWT debugger and link expander, all running in your browser
 
 ## Principles
 
 - Keep tools lightweight and easy to understand.
-- Make safety signals clear without pretending they are absolute.
-- Publish stable product, privacy, and support information.
-- Build with practical user workflows first.
+- Process data on the device wherever possible.
+- Show safety signals clearly, without claiming they are absolute.
+- Publish clear product, privacy and support information.
+
+## Feedback & support
+
+- Bugs and feature requests: [minifyn-issues](https://github.com/Minifyn/minifyn-issues)
+- Contact: [minifyn.com/contact](https://www.minifyn.com/contact)
+- Report abuse: [minifyn.com/help/report-abuse](https://www.minifyn.com/help/report-abuse)
+- Blog: [blog.minifyn.com](https://blog.minifyn.com)
+
+Most product and infrastructure repositories are private.
