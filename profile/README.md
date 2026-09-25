@@ -50,7 +50,7 @@ Prepares videos on your device so they stay crisp after posting to social apps.
 
 ## On the web
 
-- [URL shortener](https://www.minifyn.com) with QR codes and analytics
+- [URL shortener](https://www.minifyn.com) with QR codes and analytics · [Chrome extension](https://chromewebstore.google.com/detail/minifyn-url-shortener/lppblpgaeklhkcjlonkmldjfocagjifc)
 - [Developer tools](https://www.minifyn.com/tools): code minifier, JSON formatter, JWT debugger and link expander, all running in your browser
 
 ## Principles
